@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/riicky/Desktop/DashBento/mobile-Csharp/DashBento/DashBento.iOS/DashBento.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/riicky/Desktop/DashBento/mobile-Csharp/DashBento/DashBento.iOS/DashBento.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/riicky/Desktop/DashBento/mobile-Csharp/DashBento/DashBento.iOS/DashBento.iOS.csproj",
+        "projectName": "DashBento.iOS",
+        "projectPath": "/Users/riicky/Desktop/DashBento/mobile-Csharp/DashBento/DashBento.iOS/DashBento.iOS.csproj",
+        "packagesPath": "/Users/riicky/.nuget/packages/",
+        "outputPath": "/Users/riicky/Desktop/DashBento/mobile-Csharp/DashBento/DashBento.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/riicky/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
